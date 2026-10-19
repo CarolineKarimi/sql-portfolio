@@ -22,4 +22,4 @@ Open `sql tutorial.ipynb` and run the cells from the top.
 
 ## Note
 
-This was my starting point. My more recent work is in [`8-week-sql-challenge/`](../../8-week-sql-challenge/) and the [cheat sheet](../../cheat-sheet/sql_cheat_sheet.md).
+This was my starting point. My more recent work is in [`case-studies/`](../case-studies/) and the [cheat sheet](../cheat-sheet/sql_cheat_sheet.md).

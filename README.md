@@ -7,7 +7,7 @@ My SQL learning notes, tutorials and case studies. I am working toward analyst r
 | Folder | What it is |
 |---|---|
 | [`cheat-sheet/`](cheat-sheet/sql_cheat_sheet.md) | My SQL reference: tricks, patterns and syntax, from `SELECT` through joins, dates, `CASE`, subqueries and CTEs |
-| [`tutorials/jupyter-sql-basics/`](tutorials/jupyter-sql-basics/) | A first tutorial: running SQL inside a Jupyter notebook with SQLAlchemy |
+| [`jupyter-sql-basics_tutorial/`](jupyter-sql-basics_tutorial/) | A first tutorial: running SQL inside a Jupyter notebook with SQLAlchemy |
 | [`case-studies/`](case-studies/) | Real-world style case studies from different sources, with my own queries and notes |
 
 ## Case studies
